@@ -1,0 +1,14 @@
+body {
+    color: #0031d3bd;
+    background-color: rgb(153, 196, 207);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+.jumbotron {
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(181, 203, 212);
+    background-image: url("../images/science.png");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  }
